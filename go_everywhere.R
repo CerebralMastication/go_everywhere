@@ -2,6 +2,8 @@ library(tidyverse)
 library(rjson)
 
 library(ggmap)
+library(gmapsdistance)
+library(TSP)
 
 ## Scrape in the locations ----
 
@@ -62,7 +64,7 @@ mapgilbert <-
       lon = mean(locations_df$lon),
       lat = mean(locations_df$lat)
     ),
-    zoom = 4,
+    zoom = 2,
     maptype = "satellite",
     scale = 2
   )
@@ -81,3 +83,43 @@ ggmap(mapgilbert) +
     shape = 21
   ) +
   guides(fill = FALSE, alpha = FALSE, size = FALSE)
+
+### routing work  ----
+
+# got great ideas from here https://datawookie.netlify.com/blog/2018/05/travelling-salesman-with-ggmap/
+
+# function to get driving distance
+drive_dist <- function(origin_lat,
+                       origin_lon,
+                       dest_lat,
+                       dest_lon) {
+  x <- paste0(origin_lat, "+", origin_lon)
+  y <- paste0(dest_lat, "+", dest_lon)
+  gmapsdistance(origin = x,
+                destination = y,
+                mode = "driving")
+}
+
+head(locations_df) %>% # limited to 6 for testing
+  expand(place, place) %>%
+  inner_join(locations_df, by = "place") %>%
+  inner_join(locations_df, by = c("place1" = "place")) %>%
+  rename(
+    lon = lon.x,
+    lat = lat.x,
+    lon1 = lon.y,
+    lat1 = lat.y
+  ) ->
+  dist_pairs
+
+## gmapsdistance uses it's own API setting
+set.api.key(Sys.getenv("GOOG_MAPS_API"))
+
+# dist_pairs <- head(dist_pairs)
+
+drive_dist(dist_pairs$lat,
+           dist_pairs$lon,
+           dist_pairs$lat1,
+           dist_pairs$lon1) ->
+  drive_matrix
+
