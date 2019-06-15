@@ -1,0 +1,981 @@
+[
+{
+        "id": " 0 ",
+        "title": " Winnemucca,",
+        "description": "I interpreted as Winnemucca, Nevada, United States ",
+        "camera": {
+            center: [-117.7357, 40.973],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 1 ",
+        "title": " Reno,",
+        "description": "I interpreted as Reno, Nevada, United States ",
+        "camera": {
+            center: [-119.8137, 39.5293],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 55 ",
+        "title": " Bakersfield,",
+        "description": "I interpreted as Bakersfield, California, United States ",
+        "camera": {
+            center: [-119.0195, 35.3739],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 32 ",
+        "title": " Santa Fe,",
+        "description": "I interpreted as Santa Fe Springs, California, United States ",
+        "camera": {
+            center: [-118.0676, 33.9482],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 87 ",
+        "title": " Cedar City,",
+        "description": "I interpreted as Cedar City, Utah, United States ",
+        "camera": {
+            center: [-113.0619, 37.6775],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 7 ",
+        "title": " Winslow,",
+        "description": "I interpreted as Winslow, Arizona, United States ",
+        "camera": {
+            center: [-110.6974, 35.0242],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 30 ",
+        "title": " Monterey,",
+        "description": "I interpreted as Monterey Park, 350 E Oak St, Phoenix, Arizona 85004, United States ",
+        "camera": {
+            center: [-112.067522, 33.473554],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 65 ",
+        "title": " Catalina,",
+        "description": "I interpreted as Catalina Foothills Church, 2150 E Orange Grove Rd, Tucson, Arizona 85718, United States ",
+        "camera": {
+            center: [-110.938635, 32.324521],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 19 ",
+        "title": " Salvador,",
+        "description": "I interpreted as Salvador Alvarado, Sinaloa, Mexico ",
+        "camera": {
+            center: [-108.0703, 25.4143],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 63 ",
+        "title": " Diamantina,",
+        "description": "I interpreted as Calle Diamantina, Naucalpan de Juárez, México, Mexico ",
+        "camera": {
+            center: [-99.3644091, 19.4328074],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 14 ",
+        "title": " Panama,",
+        "description": "I interpreted as Panamá, Panama, Panama ",
+        "camera": {
+            center: [-79.25, 9.1833],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 52 ",
+        "title": " Costa Rica,",
+        "description": "I interpreted as Costa Rica ",
+        "camera": {
+            center: [-84.200915, 10.257794],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 21 ",
+        "title": " Padilla,",
+        "description": "I interpreted as Padilla ",
+        "camera": {
+            center: [-99.1549544, 23.9792965],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 16 ",
+        "title": " La Paloma,",
+        "description": "I interpreted as La Paloma ",
+        "camera": {
+            center: [-97.6669444444, 26.0486111111],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 39 ",
+        "title": " Hennessey,",
+        "description": "I interpreted as Hennessey, Houston, 77055, Texas, United States ",
+        "camera": {
+            center: [-95.5441, 29.7849],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 27 ",
+        "title": " Houston,",
+        "description": "I interpreted as Houston, Texas, United States ",
+        "camera": {
+            center: [-95.3677, 29.7589],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 64 ",
+        "title": " Pasadena,",
+        "description": "I interpreted as Pasadena, Texas, United States ",
+        "camera": {
+            center: [-95.2091, 29.6911],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 25 ",
+        "title": " Louisiana,",
+        "description": "I interpreted as Louisiana, United States ",
+        "camera": {
+            center: [-91.671577, 30.889313],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 31 ",
+        "title": " Ferriday,",
+        "description": "I interpreted as Ferriday, Louisiana, United States ",
+        "camera": {
+            center: [-91.5546, 31.6302],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 72 ",
+        "title": " Vicksburg,",
+        "description": "I interpreted as Vicksburg, Mississippi, United States ",
+        "camera": {
+            center: [-90.8777, 32.3528],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 56 ",
+        "title": " Shreveport,",
+        "description": "I interpreted as Shreveport, Louisiana, United States ",
+        "camera": {
+            center: [-93.7652, 32.5222],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 29 ",
+        "title": " Texarkana,",
+        "description": "I interpreted as Texarkana, Texas, United States ",
+        "camera": {
+            center: [-94.0477, 33.4251],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 36 ",
+        "title": " Little Rock,",
+        "description": "I interpreted as Little Rock, Arkansas, United States ",
+        "camera": {
+            center: [-92.2896, 34.7465],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 10 ",
+        "title": " Tulsa,",
+        "description": "I interpreted as Tulsa, Oklahoma, United States ",
+        "camera": {
+            center: [-95.9251, 36.1012],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 12 ",
+        "title": " Oklahoma,",
+        "description": "I interpreted as Oklahoma City, Oklahoma, United States ",
+        "camera": {
+            center: [-97.5171, 35.473],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 9 ",
+        "title": " Wichita,",
+        "description": "I interpreted as Wichita, Kansas, United States ",
+        "camera": {
+            center: [-97.3375, 37.6922],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 88 ",
+        "title": " Dodge City,",
+        "description": "I interpreted as Dodge City, Kansas, United States ",
+        "camera": {
+            center: [-100.0171, 37.7528],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 20 ",
+        "title": " Amarillo,",
+        "description": "I interpreted as Amarillo, Texas, United States ",
+        "camera": {
+            center: [-101.8338, 35.2072],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 69 ",
+        "title": " Colorado,",
+        "description": "I interpreted as Colorado, United States ",
+        "camera": {
+            center: [-105.549558, 38.999983],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 79 ",
+        "title": " Nebraska,",
+        "description": "I interpreted as Nebraska, United States ",
+        "camera": {
+            center: [-100.031645, 41.497066],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 85 ",
+        "title": " Kansas City,",
+        "description": "I interpreted as Kansas City, Missouri, United States ",
+        "camera": {
+            center: [-94.563, 39.0845],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 54 ",
+        "title": " Springfield,",
+        "description": "I interpreted as Springfield, Missouri, United States ",
+        "camera": {
+            center: [-93.2983, 37.2153],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 74 ",
+        "title": " Larimore,",
+        "description": "I interpreted as Larimore Road Park, 11726 Larimore Rd, Saint Louis, Missouri 63138, United States ",
+        "camera": {
+            center: [-90.1972, 38.782682],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 73 ",
+        "title": " Eldorado,",
+        "description": "I interpreted as Eldorado, Illinois, United States ",
+        "camera": {
+            center: [-88.4381, 37.8137],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 46 ",
+        "title": " Nashville,",
+        "description": "I interpreted as Nashville, Tennessee, United States ",
+        "camera": {
+            center: [-86.7744, 36.1622],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 38 ",
+        "title": " Tennessee,",
+        "description": "I interpreted as Tennessee, United States ",
+        "camera": {
+            center: [-86.317786, 35.832308],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 33 ",
+        "title": " Tallapoosa,",
+        "description": "I interpreted as Tallapoosa, Georgia, United States ",
+        "camera": {
+            center: [-85.288, 33.7445],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 81 ",
+        "title": " Opelika,",
+        "description": "I interpreted as Opelika, Alabama, United States ",
+        "camera": {
+            center: [-85.3783, 32.6454],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 75 ",
+        "title": " Atmore,",
+        "description": "I interpreted as Atmore, Alabama, United States ",
+        "camera": {
+            center: [-87.4939, 31.0238],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 13 ",
+        "title": " Tampa,",
+        "description": "I interpreted as Tampa, Florida, United States ",
+        "camera": {
+            center: [-82.4584, 27.9478],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 8 ",
+        "title": " Sarasota,",
+        "description": "I interpreted as Sarasota, Florida, United States ",
+        "camera": {
+            center: [-82.5307, 27.3364],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 50 ",
+        "title": " Jacksonville,",
+        "description": "I interpreted as Jacksonville, Florida, United States ",
+        "camera": {
+            center: [-81.6557, 30.3322],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 23 ",
+        "title": " Charleston,",
+        "description": "I interpreted as Charleston, South Carolina, United States ",
+        "camera": {
+            center: [-79.9403, 32.7876],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 47 ",
+        "title": " Knoxville,",
+        "description": "I interpreted as Knoxville, Tennessee, United States ",
+        "camera": {
+            center: [-83.921, 35.9604],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 62 ",
+        "title": " Jellico,",
+        "description": "I interpreted as Jellico, Tennessee, United States ",
+        "camera": {
+            center: [-84.1269, 36.5879],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 45 ",
+        "title": " Louisville,",
+        "description": "I interpreted as Louisville, Kentucky, United States ",
+        "camera": {
+            center: [-85.7594, 38.2542],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 24 ",
+        "title": " Dayton,",
+        "description": "I interpreted as Dayton, Ohio, United States ",
+        "camera": {
+            center: [-84.1916, 39.7589],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 67 ",
+        "title": " Parkersburg,",
+        "description": "I interpreted as Parkersburg, West Virginia, United States ",
+        "camera": {
+            center: [-81.5615, 39.2667],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 66 ",
+        "title": " Pittsburgh,",
+        "description": "I interpreted as Pittsburgh, Pennsylvania, United States ",
+        "camera": {
+            center: [-79.9901, 40.4417],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 18 ",
+        "title": " Baltimore,",
+        "description": "I interpreted as Baltimore, Maryland, United States ",
+        "camera": {
+            center: [-76.6108, 39.2909],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 35 ",
+        "title": " Black Rock,",
+        "description": "I interpreted as Black Rock Playground, WATSON Ave, New York, New York 10472, United States ",
+        "camera": {
+            center: [-73.857975, 40.828401],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 57 ",
+        "title": " Hackensack,",
+        "description": "I interpreted as Hackensack Bus Terminal, 131 River St, Hackensack, New Jersey 07601, United States ",
+        "camera": {
+            center: [-74.042325, 40.881969],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 34 ",
+        "title": " Glen Rock,",
+        "description": "I interpreted as Glen Rock Main Line Station, MAIN St, Glen Rock, New Jersey 07452, United States ",
+        "camera": {
+            center: [-74.133713, 40.962172],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 76 ",
+        "title": " Haverstraw,",
+        "description": "I interpreted as Haverstraw, New York, United States ",
+        "camera": {
+            center: [-73.9641, 41.1977],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 53 ",
+        "title": " Pittsfield,",
+        "description": "I interpreted as Pittsfield, Massachusetts, United States ",
+        "camera": {
+            center: [-73.2454, 42.4501],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 40 ",
+        "title": " Chicopee,",
+        "description": "I interpreted as Chicopee, Massachusetts, United States ",
+        "camera": {
+            center: [-72.6079, 42.1487],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 22 ",
+        "title": " Boston,",
+        "description": "I interpreted as Boston Logan International Airport (BOS), 1 Harborside Dr, Boston, Massachusetts 02128, United States ",
+        "camera": {
+            center: [-71.02161, 42.364594],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 51 ",
+        "title": " Waterville,",
+        "description": "I interpreted as Waterville, Maine, United States ",
+        "camera": {
+            center: [-69.6317, 44.552],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 17 ",
+        "title": " Bangor,",
+        "description": "I interpreted as Bangor, Maine, United States ",
+        "camera": {
+            center: [-68.7778, 44.8012],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 42 ",
+        "title": " Grand Lake,",
+        "description": "I interpreted as Grand Lake Road, Nova Scotia, Canada ",
+        "camera": {
+            center: [-60.1381, 46.1497],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 49 ",
+        "title": " Schefferville,",
+        "description": "I interpreted as Schefferville, Quebec, Canada ",
+        "camera": {
+            center: [-66.8318, 54.8002],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 11 ",
+        "title": " Ottawa,",
+        "description": "I interpreted as Ottawa, Ontario, Canada ",
+        "camera": {
+            center: [-75.69, 45.421],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 28 ",
+        "title": " Kingston,",
+        "description": "I interpreted as Kingston, Ontario, Canada ",
+        "camera": {
+            center: [-76.4803, 44.2298],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 6 ",
+        "title": " Toronto,",
+        "description": "I interpreted as Toronto, Ontario, Canada ",
+        "camera": {
+            center: [-79.3849, 43.6529],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 5 ",
+        "title": " Buffalo,",
+        "description": "I interpreted as Buffalo, New York, United States ",
+        "camera": {
+            center: [-78.877, 42.9333],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 58 ",
+        "title": " Cadillac,",
+        "description": "I interpreted as Cadillac, Michigan, United States ",
+        "camera": {
+            center: [-85.4012, 44.252],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 84 ",
+        "title": " Kalamazoo,",
+        "description": "I interpreted as Kalamazoo, Michigan, United States ",
+        "camera": {
+            center: [-85.5872, 42.2917],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 15 ",
+        "title": " Mattawa,",
+        "description": "I interpreted as Mattawan, Michigan, United States ",
+        "camera": {
+            center: [-85.7845, 42.2095],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 2 ",
+        "title": " Chicago,",
+        "description": "I interpreted as Chicago, Illinois, United States ",
+        "camera": {
+            center: [-87.6244, 41.8756],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 59 ",
+        "title": " Fond du Lac,",
+        "description": "I interpreted as Fond Du Lac, Wisconsin, United States ",
+        "camera": {
+            center: [-88.4458, 43.7749],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 82 ",
+        "title": " Baraboo,",
+        "description": "I interpreted as Baraboo, Wisconsin, United States ",
+        "camera": {
+            center: [-89.7438, 43.4704],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 60 ",
+        "title": " Davenport,",
+        "description": "I interpreted as Davenport, Iowa, United States ",
+        "camera": {
+            center: [-90.5776, 41.5236],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 37 ",
+        "title": " Oskaloosa,",
+        "description": "I interpreted as Oskaloosa, Iowa, United States ",
+        "camera": {
+            center: [-92.6444, 41.2964],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 83 ",
+        "title": " Waterloo,",
+        "description": "I interpreted as Waterloo, Iowa, United States ",
+        "camera": {
+            center: [-92.3369, 42.4983],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 86 ",
+        "title": " Sioux City,",
+        "description": "I interpreted as Sioux City, Iowa, United States ",
+        "camera": {
+            center: [-96.4059, 42.4967],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 41 ",
+        "title": " Spirit Lake,",
+        "description": "I interpreted as Spirit Lake, Iowa, United States ",
+        "camera": {
+            center: [-95.1022, 43.4222],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 78 ",
+        "title": " Chaska,",
+        "description": "I interpreted as Chaska, Minnesota, United States ",
+        "camera": {
+            center: [-93.6022, 44.7894],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 48 ",
+        "title": " Ombabika,",
+        "description": "I interpreted as Ombabika ",
+        "camera": {
+            center: [-88, 50],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 4 ",
+        "title": " Minnesota,",
+        "description": "I interpreted as Minnesota, United States ",
+        "camera": {
+            center: [-94.503809, 46.443226],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 3 ",
+        "title": " Fargo,",
+        "description": "I interpreted as Fargo, North Dakota, United States ",
+        "camera": {
+            center: [-96.7898, 46.8772],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 43 ",
+        "title": " Devils Lake,",
+        "description": "I interpreted as Devils Lake, North Dakota, United States ",
+        "camera": {
+            center: [-98.8651, 48.1128],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 68 ",
+        "title": " Gravelbourg,",
+        "description": "I interpreted as Gravelbourg, Saskatchewan, Canada ",
+        "camera": {
+            center: [-106.5845, 49.9168],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 77 ",
+        "title": " Chatanika,",
+        "description": "I interpreted as Chatanika Trl, Fairbanks, Alaska 99712, United States ",
+        "camera": {
+            center: [-147.616158, 64.96799],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 80 ",
+        "title": " Alaska,",
+        "description": "I interpreted as Alaska, United States ",
+        "camera": {
+            center: [-153.610133, 62.075829],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 44 ",
+        "title": " Crater Lake,",
+        "description": "I interpreted as Crater Lake Lodge, Eugene, Oregon 97408, United States ",
+        "camera": {
+            center: [-123.089803, 44.097565],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 26 ",
+        "title": " Washington,",
+        "description": "I interpreted as Washington, United States ",
+        "camera": {
+            center: [-120.760049, 47.283049],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 70 ",
+        "title": " Ellensburg,",
+        "description": "I interpreted as Ellensburg, Washington, United States ",
+        "camera": {
+            center: [-120.5451, 46.9971],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 61 ",
+        "title": " Idaho,",
+        "description": "I interpreted as Idaho, United States ",
+        "camera": {
+            center: [-115.464968, 45.494716],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    },
+    {
+        "id": " 71 ",
+        "title": " Rexburg,",
+        "description": "I interpreted as Rexburg, Idaho, United States ",
+        "camera": {
+            center: [-111.787, 43.8235],
+            zoom: 10,
+            pitch: 50,
+            speed: 0.5
+        }
+    }
+]
