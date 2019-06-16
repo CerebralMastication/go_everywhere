@@ -100,7 +100,7 @@ drive_dist <- function(origin_lat,
                 mode = "driving")
 }
 
-head(locations_df) %>% # limited to 6 for testing
+locations_df %>% 
   expand(place, place) %>%
   inner_join(locations_df, by = "place") %>%
   inner_join(locations_df, by = c("place1" = "place")) %>%
@@ -115,11 +115,21 @@ head(locations_df) %>% # limited to 6 for testing
 ## gmapsdistance uses it's own API setting
 set.api.key(Sys.getenv("GOOG_MAPS_API"))
 
-# dist_pairs <- head(dist_pairs)
+drive_dist_df <- function(df) {
+  drive_dist(df$lat,
+             df$lon,
+             df$lat1,
+             df$lon1) ->
+    drive_matrix
+  return(as.data.frame(drive_matrix))
+}
 
-drive_dist(dist_pairs$lat,
-           dist_pairs$lon,
-           dist_pairs$lat1,
-           dist_pairs$lon1) ->
-  drive_matrix
+out_list <- list()
+for (i in 1:nrow(dist_pairs)) {
+  out <- drive_dist_df(dist_pairs[i, ])
+  out <- cbind(dist_pairs[i, ], out)
+  out_list[[i]] <- out
+  write_csv(out, "distance_pairs.csv", append = TRUE)
+  print(paste("Completed iteration", i))
+}
 
