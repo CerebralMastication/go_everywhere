@@ -4,6 +4,7 @@ library(rjson)
 library(ggmap)
 library(gmapsdistance)
 library(TSP)
+library(tictoc)
 
 ## Scrape in the locations ----
 
@@ -126,10 +127,12 @@ drive_dist_df <- function(df) {
 
 out_list <- list()
 for (i in 1:nrow(dist_pairs)) {
+  tic(paste("Started iteration", i))
   out <- drive_dist_df(dist_pairs[i, ])
   out <- cbind(dist_pairs[i, ], out)
   out_list[[i]] <- out
   write_csv(out, "distance_pairs.csv", append = TRUE)
-  print(paste("Completed iteration", i))
+  toc()
+  Sys.sleep(rlnorm(1000,.1,.5)) #sleep for ~1-4 seconds
 }
 
